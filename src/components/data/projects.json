@@ -1,0 +1,26 @@
+[
+    {
+        "key":1,
+        "title": "Hand Written Digit Recognition",
+        "imageSrc":"https://i.ytimg.com/vi/bte8Er0QhDg/maxresdefault.jpg",
+        "description":"This Project is done by using the CNN applied on the MNIST dataset.",
+        "demo": "Not Available",
+        "source":""
+    },
+    {
+        "key":2,
+        "title": "Tic Tac Toe",
+        "imageSrc":"https://www.shutterstock.com/image-vector/xoxo-colorful-seamless-pattern-bold-260nw-2292698433.jpg",
+        "description":"This is a project made with HTML, CSS, and JavaScript.",
+        "demo": "https://tic-tac-toe-henna-ten.vercel.app",
+        "source":"https://github.com/ShoetaBadani/Tic-Tac-Toe"
+    },
+    {
+        "key":3,
+        "title": "Crud App",
+        "imageSrc":"https://cdn.dribbble.com/userupload/6601661/file/original-d0e36ac92c4f6a2e524330c7e1e7ceed.png?resize=1600x1200",
+        "description":"This Project is done by using React.js and Node.js.",
+        "demo": "",
+        "source":""
+    }
+]

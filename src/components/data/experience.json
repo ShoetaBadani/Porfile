@@ -1,0 +1,28 @@
+[
+   {
+      "id": 1,
+      "role": " Networking Intern",
+      "organization": "SEPCO",
+      "startDate": "13th june 2024",
+      "endDate": "25th july 2024",
+      "location": "SEPCO Shalimar Office, Sukkur, Pakistan",
+      "experiences": [
+        "Worked on Windows Server 2022",
+        "Worked on VPN Server implementation"
+      ],
+      "imageSrc": "company/sepco.PNG"
+   },
+    {
+      "id": 1,
+      "role": " Networking Intern",
+      "organization": "SEPCO",
+      "startDate": "13th june 2024",
+      "endDate": "25th july 2024",
+      "location": "SEPCO Shalimar Office, Sukkur, Pakistan",
+      "experiences": [
+        "Worked on Windows Server 2022",
+        "Worked on VPN Server implementation"
+      ],
+      "imageSrc": "company/sepco.PNG"
+   }
+]
